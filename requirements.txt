@@ -1,0 +1,5 @@
+Flask
+Spacy
+Scipy
+numpy
+pyspellchecker

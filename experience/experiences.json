@@ -1,0 +1,151 @@
+[
+    {
+        "experience": "Entry Level (<2y experience)",
+        "experience_synonyms": [
+            "Entry Level (<2y experience)",
+            "Entry Level",
+            "1 Year",
+            "Junior",
+            "Beginner",
+            "Trainee",
+            "Fresher",
+            "Intern"
+        ]
+    },
+    {
+        "experience": "Associate (<2y experience)",
+        "experience_synonyms": [
+            "Associate (<2y experience)",
+            "Associate",
+            "1 Year",
+            "Junior Associate",
+            "Assistant",
+            "Apprentice"
+        ]
+    },
+    {
+        "experience": "Mid-Level (2-8y experience)",
+        "experience_synonyms": [
+            "Mid-Level (2-8y experience)",
+            "Mid-Level",
+            "2 Year",
+            "3 Year",
+            "4 Year",
+            "5 Year",
+            "6 Year",
+            "7 Year",
+            "8 Year",
+            "Experienced",
+            "Intermediate",
+            "Mid-Career",
+            "Mid-Tier"
+        ]
+    },
+    {
+        "experience": "Team Lead (2-8y experience)",
+        "experience_synonyms": [
+            "Team Lead (2-8y experience)",
+            "Team Lead",
+            "2 Year",
+            "3 Year",
+            "4 Year",
+            "5 Year",
+            "6 Year",
+            "7 Year",
+            "8 Year",
+            "Lead",
+            "Lead Developer",
+            "Supervisor",
+            "Project Lead",
+            "Group Leader"
+        ]
+    },
+    {
+        "experience": "Mid-management (2-8y experience)",
+        "experience_synonyms": [
+            "Mid-management (2-8y experience)",
+            "Mid-management",
+            "2 Year",
+            "3 Year",
+            "4 Year",
+            "5 Year",
+            "6 Year",
+            "7 Year",
+            "8 Year",
+            "Department Manager",
+            "Unit Manager",
+            "Division Manager",
+            "Operations Manager"
+        ]
+    },
+    {
+        "experience": "Manager (>8y of experience)",
+        "experience_synonyms": [
+            "Manager (>8y of experience)",
+            "Manager",
+            "9 Year",
+            "10 Year",
+            "11 Year",
+            "12 Year",
+            "13 Year",
+            "14 Year",
+            "15 Year",
+            "Senior Manager",
+            "General Manager",
+            "Operations Manager",
+            "Department Head"
+        ]
+    },
+    {
+        "experience": "Senior Manager (>8y of experience)",
+        "experience_synonyms": [
+            "Senior Manager (>8y of experience)",
+            "Senior Manager",
+            "9 Year",
+            "10 Year",
+            "11 Year",
+            "12 Year",
+            "13 Year",
+            "14 Year",
+            "15 Year",
+            "Head of Department",
+            "Regional Manager",
+            "Senior Operations Manager"
+        ]
+    },
+    {
+        "experience": "CEO/Director (VP+)",
+        "experience_synonyms": [
+            "CEO/Director (VP+)",
+            "CEO",
+            "Director",
+            "Chief Executive Officer",
+            "Chief",
+            "Executive Director",
+            "Managing Director",
+            "Vice President",
+            "President"
+        ]
+    },
+    {
+        "experience": "Executive (VP+)",
+        "experience_synonyms": [
+            "Executive (VP+)",
+            "C-Suite",
+            "Vice President",
+            "VP",
+            "Chief Officer",
+            "Executive VP"
+        ]
+    },
+    {
+        "experience": "Top-Level (VP+)",
+        "experience_synonyms": [
+            "Top-Level (VP+)",
+            "C-Level",
+            "Executive Leadership",
+            "Leadership Team",
+            "Senior Executive"
+        ]
+    }
+]

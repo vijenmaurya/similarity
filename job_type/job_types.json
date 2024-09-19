@@ -1,0 +1,92 @@
+[
+    {
+        "job_type": "Part time",
+        "job_type_synonyms": [
+            "Part",
+            "Part time",
+            "Part-time",
+            "Parttime",
+            "Reduced hours"
+        ]
+    },
+    {
+        "job_type": "Contractual",
+        "job_type_synonyms": [
+            "Contractual",
+            "Contract",
+            "Fixed-term",
+            "Freelance contract"
+        ]
+    },
+    {
+        "job_type": "Freelancing",
+        "job_type_synonyms": [
+            "Freelancing",
+            "Freelance",
+            "Independent contractor",
+            "Self-employed"
+        ]
+    },
+    {
+        "job_type": "Temporary",
+        "job_type_synonyms": [
+            "Temporary",
+            "Temp",
+            "Interim",
+            "Short-term"
+        ]
+    },
+    {
+        "job_type": "Permanent",
+        "job_type_synonyms": [
+            "Permanent",
+            "Full-time",
+            "Indefinite"
+        ]
+    },
+    {
+        "job_type": "Seasonal",
+        "job_type_synonyms": [
+            "Seasonal",
+            "Seasonal work",
+            "Temporary seasonal"
+        ]
+    },
+    {
+        "job_type": "Internship",
+        "job_type_synonyms": [
+            "Internship",
+            "Intern",
+            "Trainee",
+            "Co-op"
+        ]
+    },
+    {
+        "job_type": "Volunteer",
+        "job_type_synonyms": [
+            "Volunteer",
+            "Volunteering",
+            "Pro bono",
+            "Unpaid work"
+        ]
+    },
+    {
+        "job_type": "Gig work",
+        "job_type_synonyms": [
+            "Gig work",
+            "Gig",
+            "On-demand work",
+            "Freelance gigs"
+        ]
+    },
+    {
+        "job_type": "Full time",
+        "job_type_synonyms": [
+            "Full",
+            "Full time",
+            "Full-time",
+            "Permanent full-time",
+            "Regular"
+        ]
+    }
+]
